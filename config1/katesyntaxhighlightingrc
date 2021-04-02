@@ -1,0 +1,65 @@
+[Default Item Styles - Schema Breeze Dark]
+Error=ffda4453,ffda4453,0,,,1,-,-,,---
+
+[Default Item Styles - Schema KDE]
+Alert=ffda4453,ffda4453,1,,,,ff351215,-,,---
+Annotation=ff7f8c8d,ffbdc3c7,,,,,-,-,,---
+Attribute=ff2980b9,fffdbc4b,,,,,-,-,,---
+Base-N Integer=fff67400,fff67400,,,,,-,-,,---
+Built-in=ff7f8c8d,ffbdc3c7,,,,,-,-,,---
+Character=ff3daee9,fffcfcfc,,,,,-,-,,---
+Comment=ff616466,ff868687,,,,,-,-,,---
+Comment Variable=ff7f8c8d,ffbdc3c7,,,,,-,-,,---
+Constant=ffeff0f1,ff202121,1,,,,-,-,,---
+Control Flow=ffeff0f1,ff202121,1,,,,-,-,,---
+Data Type=ff2980b9,fffdbc4b,,,,,-,-,,---
+Decimal/Value=fff67400,fff67400,,,,,-,-,,---
+Documentation=ffda4453,ffda4453,,,,,-,-,,---
+Error=ffda4453,ffda4453,,,,1,-,-,,---
+Extension=ff0095ff,ff202121,1,,,,-,-,,---
+Floating Point=fff67400,fff67400,,,,,-,-,,---
+Function=fff67400,fff67400,,,,,-,-,,---
+Import=ff7f8c8d,ffbdc3c7,,,,,-,-,,---
+Information=fff67400,fff67400,,,,,-,-,,---
+Keyword=ffeff0f1,ff202121,1,,,,-,-,,---
+Normal=ffeff0f1,ff202121,,,,,-,-,,---
+Operator=ffeff0f1,ff202121,,,,,-,-,,---
+Others=ff27ae60,ff27ae60,,,,,-,-,,---
+Preprocessor=ff27ae60,ff27ae60,,,,,-,-,,---
+Region Marker=ff2980b9,fffdbc4b,,,,,ff0b202d,-,,---
+Special Character=ff3daee9,fffcfcfc,,,,,-,-,,---
+Special String=ffda4453,ffda4453,,,,,-,-,,---
+String=ffda4453,ffda4453,,,,,-,-,,---
+Variable=ff2980b9,fffdbc4b,,,,,-,-,,---
+Verbatim String=ffda4453,ffda4453,,,,,-,-,,---
+Warning=ffda4453,ffda4453,,,,,-,-,,---
+
+[Default Item Styles - Schema Normal]
+Error=ffbf0303,ff9c0e0e,,0,,1,-,-,,---
+
+[Default Item Styles - Schema Solarized (dark)]
+Error=ffdc322f,ffdc322f,1,,,1,-,-,,---
+
+[Default Item Styles - Schema Solarized (light)]
+Error=ffdc322f,ffdc322f,1,,,1,-,-,,---
+
+[Default Item Styles - Schema Vim (dark)]
+Error=ffffaa00,ffff5500,1,0,0,1,-,-,,---
+
+[Highlighting None - Schema Breeze Dark]
+None:Normal=0,,,,,,,,,,---
+
+[Highlighting None - Schema KDE]
+None:Normal=0,,,,,,,,,,---
+
+[Highlighting None - Schema Normal]
+None:Normal=0,,,,,,,,,,---
+
+[Highlighting None - Schema Solarized (dark)]
+None:Normal=0,,,,,,,,,,---
+
+[Highlighting None - Schema Solarized (light)]
+None:Normal=0,,,,,,,,,,---
+
+[Highlighting None - Schema Vim (dark)]
+None:Normal=0,,,,,,,,,,---

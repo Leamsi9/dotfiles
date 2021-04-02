@@ -1,0 +1,53 @@
+[$Version]
+update_info=gwenview.upd:SideBar_StatusBar_Rename,gwenview.upd:ImageView_AlphaBackgroundMode_Update
+
+[General]
+DefaultExportPluginText=&Install Plugins
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/Downloads/slack emojis/Ismael1.jpeg,file:$HOME/Downloads/Ismael.jpg,file:$HOME/Downloads/doctor.png,file:$HOME/Downloads/mockup-of-a-male-doctor-showing-an-iphone-in-portrait-mode-12404.png,file:$HOME/Downloads/slack emojis/Ismaek.jpeg
+Recent URLs[$e]=file:$HOME/Downloads/
+detailViewIconSize=0
+iconViewIconSize=43
+
+[KPropertiesDialog]
+Height 1080=573
+Width 1920=409
+
+[MainWindow]
+Height 1080=1080
+State=AAAA/wAAAAD9AAAAAAAADwAAAAPuAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1920=1920
+Width 3840=3840
+Window-Maximized 1080x1920=true
+Window-Maximized 1080x3840=true
+
+[Print]
+PrintHeight=20
+
+[Recent Files]
+File1[$e]=$HOME/Documents/Bookinglive/attendees2.png
+File2[$e]=$HOME/Documents/Bookinglive/attendees.png
+File3[$e]=$HOME/Downloads/Copy of Copy of Copy of Copy of Copy of Copy of supporting small business (8).png
+File4[$e]=$HOME/Documents/Bookinglive/Connect media/Plugins/Zoom/big-zoom.png
+File5[$e]=$HOME/Downloads/unnamed.png
+File6[$e]=$HOME/Documents/images/Ismael.png
+File7[$e]=$HOME/Documents/Bookinglive/connect/cypress/screenshots/05-New-Booking-Process/Mobile/13-one-timeslot-one-attendee.spec.js/Make a booking with one attendee and one time slot -- Directs to booking page and selects one timeslot and one attendee (failed) (1).png
+File8[$e]=$HOME/Documents/Bookinglive/zapier-media/BL_login.png
+File9[$e]=$HOME/Downloads/JB.png
+Name1[$e]=attendees2.png
+Name2[$e]=attendees.png
+Name3[$e]=Copy of Copy of Copy of Copy of Copy of Copy of supporting small business (8).png
+Name4[$e]=big-zoom.png
+Name5[$e]=unnamed.png
+Name6[$e]=Ismael.png
+Name7[$e]=Make a booking with one attendee and one time slot -- Directs to booking page and selects one timeslot and one attendee (failed) (1).png
+Name8[$e]=BL_login.png
+Name9[$e]=JB.png
+
+[SideBar]
+SideBarSplitterSizes=242,3595
+
+[ThumbnailView]
+Sorting=Sorting::Date

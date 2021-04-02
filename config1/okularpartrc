@@ -1,0 +1,11 @@
+[General]
+rtlReadingDirection=true
+
+[Main View]
+SplitterSizes=600,3131
+
+[PageView]
+MouseMode=RectSelect
+
+[Search]
+SearchCaseSensitive=true

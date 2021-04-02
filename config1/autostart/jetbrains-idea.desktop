@@ -1,0 +1,22 @@
+[Desktop Entry]
+Categories=Development;IDE;
+Comment[en_GB]=Capable and ergonomic Java IDE
+Comment=Capable and ergonomic Java IDE
+Exec="/home/ismael/.local/share/JetBrains/Toolbox/apps/IDEA-U/ch-0/193.6494.35/bin/idea.sh" %f
+GenericName[en_GB]=
+GenericName=
+Icon=/home/ismael/.local/share/JetBrains/Toolbox/apps/IDEA-U/ch-0/.icon.svg
+MimeType=
+Name[en_GB]=IntelliJ IDEA Ultimate
+Name=IntelliJ IDEA Ultimate
+Path=
+StartupNotify=true
+StartupWMClass=jetbrains-idea
+Terminal=false
+TerminalOptions=
+Type=Application
+Version=1.0
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=

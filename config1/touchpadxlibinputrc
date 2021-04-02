@@ -1,0 +1,7 @@
+[SynPS/2 Synaptics TouchPad]
+clickMethodAreas=false
+clickMethodClickfinger=true
+disableWhileTyping=true
+naturalScroll=true
+tapDragLock=true
+tapToClick=true

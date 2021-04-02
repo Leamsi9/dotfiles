@@ -1,0 +1,8 @@
+[FileDialogSize]
+Height 1080=480
+Width 1920=640
+
+[KFileDialog Settings]
+Recent Files[$e]=Partial-Inventory-2.0-2020-Oct-2.pdf,file:$HOME/Downloads/Partial-Inventory-2.0-2020-Oct-2.pdf
+Recent URLs[$e]=file:$HOME/Downloads/
+iconViewIconSize=43

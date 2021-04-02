@@ -1,0 +1,13 @@
+[Layout]
+DisplayNames=,lat
+LayoutList=gb,latam
+LayoutLoopCount=-1
+Model=pc101
+Options=terminate:ctrl_alt_bksp,compose:rctrl
+ResetOldOptions=true
+ShowFlag=false
+ShowLabel=true
+ShowLayoutIndicator=true
+ShowSingle=false
+SwitchMode=Global
+Use=true

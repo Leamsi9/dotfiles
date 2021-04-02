@@ -1,0 +1,38 @@
+[FileDialogSize]
+Height 1080=480
+Width 1920=640
+
+[General]
+copySaveLocation=false
+default-save-image-format=png
+default-save-location[$e]=$HOME/Pictures
+lastSaveAsFile=file:///home/ismael/Documents/GitThinkpadToken.png
+lastSaveFile=file:///home/ismael/Documents/GitThinkpadToken.png
+save-filename-format=Screenshot_%Y%M%D_%H%m%S
+
+[GuiConfig]
+alwaysRememberRegion=false
+captureDelay=1
+captureModeIndex=3
+compressionQuality=90
+cropRegion=1400,164,1083,311
+includeDecorations=false
+includePointer=false
+lastUsedSaveMode=0
+printKeyActionRunning=1
+quitAfterSaveCopyExport=true
+rememberLastRectangularRegion=true
+showMagnifier=false
+useLightMaskColour=false
+useReleaseToCapture=false
+window-position=473,0
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/Downloads/JSconf.MX-organisers,file:$HOME/Documents/GitThinkpadToken.png,file:$HOME/Downloads/JB.png,file:$HOME/Downloads/purplebackdrop.png,file:$HOME/Downloads/backdropTech4Good.png,file:$HOME/Downloads/API_SPA.png,file:$HOME/Downloads/Top 10 API vulnerabilities.png,file:$HOME/Documents/PostmanNewmanGitlab.png,file:$HOME/Documents/Bookinglive/zapier-media/BL_authorize.png,file:$HOME/Documents/Bookinglive/zapier-media/BL_login.png,file:$HOME/Documents/Bookinglive/zapier-media/zapier_signin.png,file:$HOME/Downloads/cradorder.png,file:$HOME/Documents/zapier error.png,file:$HOME/Downloads/Handout 2.png,file:$HOME/Downloads/Handout 1.png,file:$HOME/Documents/Bookinglive/attendees3.png
+Recent URLs[$e]=file:$HOME/Downloads/
+detailViewIconSize=0
+iconViewIconSize=43
+
+[Open-with settings]
+CompletionMode=1
+History=sla

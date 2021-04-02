@@ -1,0 +1,89 @@
+[ActionsWidget]
+ColumnState=AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcQAAAACAQAAAQAAAAAAAAAAAAAAAGT/////AAAAgQAAAAAAAAACAAAA+gAAAAEAAAAAAAAAygAAAAEAAAAAAAAD6AAAAABk
+
+[ConfigDialog]
+Height 1080=576
+Width 1920=583
+
+[DownloadDialog Settings]
+Height 1080=580
+Width 1920=700
+Width 3840=700
+
+[FileDialogSize]
+Height 1080=480
+Width 1920=640
+
+[General]
+Number of Actions=0
+
+[KFileDialog Settings]
+Recent Files[$e]=wp1964807.jpg,file:$HOME/Downloads/wp1964807.jpg
+Recent URLs[$e]=file:$HOME/Downloads/
+detailViewIconSize=0
+
+[KPropertiesDialog]
+Height 1080=500
+Width 1920=405
+
+[Open-with settings]
+CompletionMode=1
+History=
+
+[PlasmaRunnerManager]
+LaunchCounts=
+pluginWhiteList=desktopsessions,services,places,PowerDevil,calculator,unitconverter,shell,bookmarks,recentdocuments,locations,baloosearch
+
+[PlasmaViews][Panel 108]
+panelVisibility=1
+
+[PlasmaViews][Panel 108][Horizontal1920]
+thickness=186
+
+[PlasmaViews][Panel 130][Horizontal1920]
+thickness=48
+
+[PlasmaViews][Panel 130][Horizontal3840]
+thickness=30
+
+[PlasmaViews][Panel 2]
+alignment=1
+panelVisibility=1
+
+[PlasmaViews][Panel 2][Horizontal1280]
+thickness=30
+
+[PlasmaViews][Panel 2][Horizontal1680]
+thickness=30
+
+[PlasmaViews][Panel 2][Horizontal1920]
+thickness=32
+
+[PlasmaViews][Panel 2][Horizontal2560]
+thickness=30
+
+[PlasmaViews][Panel 2][Horizontal3840]
+thickness=30
+
+[PlasmaViews][Panel 2][Vertical1080]
+thickness=30
+
+[PlasmaViews][Panel 66][Horizontal1920]
+thickness=36
+
+[PlasmaViews][Panel 71]
+panelVisibility=1
+
+[PlasmaViews][Panel 71][Horizontal1920]
+thickness=48
+
+[ScreenConnectors]
+0=HDMI-1
+1=eDP-1
+2=:0.0
+3=DP-1-1
+4=DP-1-3
+5=DP-1
+
+[Updates]
+performed=/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/obsolete_kickoffrc.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/desktop-base.js

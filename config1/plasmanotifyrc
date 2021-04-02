@@ -1,0 +1,11 @@
+[Applications][calibre-gui]
+Seen=true
+
+[Applications][google-chrome]
+Seen=true
+
+[Applications][slack]
+Seen=true
+
+[Notifications]
+PopupTimeout=3000

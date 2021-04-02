@@ -1,0 +1,17 @@
+[$Version]
+update_info=kscreenlocker.upd:0.1-autolock
+
+[Daemon]
+Autolock=false
+LockOnResume=false
+
+[Greeter]
+Theme=Sweet
+WallpaperPlugin=org.kde.image
+
+[Greeter][Wallpaper][org.kde.image][General]
+FillMode=0
+Image=file:///home/ismael/Pictures/butterfly-wallpaper-36.jpg
+
+[Greeter][Wallpaper][org.kde.slideshow][General]
+SlideInterval=4

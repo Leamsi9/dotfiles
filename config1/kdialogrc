@@ -1,0 +1,13 @@
+[FileDialogSize]
+Height 1080=480
+Width 1920=640
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/Pictures/butterfly-wallpaper-36.jpg,file:$HOME/Downloads/webhook-server.php,file:$HOME/Downloads/webhooks-server.md,file:$HOME/Documents/CodebarFest/Understanding-Anxiety-Dec-20.pdf,file:$HOME/Documents/CodebarFest/handshake.svg,file:$HOME/Documents/Bookinglive/connect/app/Documentation/OpenAPIcontract/openapi.yml,file:$HOME/Downloads/Ismael Velasco - Employee Record.pdf.zip,file:$HOME/Downloads/UK_Employment_Agreement_-_Ismael_Velasco.pdf,file:$HOME/Downloads/UK Policies.zip,file:$HOME/Documents/Bookinglive/connect/resources/images/logo.png,file:$HOME/Downloads/Zapier Test Plan.docx,file:$HOME/Downloads/Head of Covid Post_ ROI and Recommendations.docx,file:$HOME/Downloads/Bookinglive - Covid 19 Technology for Recovery.pptx,file:$HOME/Downloads/Head of Covid_ 3 Month Review.pptx,file:$HOME/Downloads/API Strategy.pptx,file:$HOME/Downloads/PHPNWZoom.mp4
+Recent URLs[$e]=file:$HOME/Downloads/
+detailViewIconSize=0
+iconViewIconSize=43
+
+[KPropertiesDialog]
+Height 1080=573
+Width 3840=431

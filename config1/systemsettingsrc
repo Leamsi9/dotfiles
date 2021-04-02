@@ -1,0 +1,32 @@
+[DownloadDialog Settings]
+Height 1050=535
+Height 1080=535
+Width 1680=700
+Width 1920=700
+
+[KFileDialog Settings]
+Recent Files[$e]=butterfly-wallpaper-36.jpg,file:$HOME/Pictures/butterfly-wallpaper-36.jpg
+Recent URLs[$e]=file:$HOME/Pictures/
+detailViewIconSize=0
+iconViewIconSize=43
+
+[KPropertiesDialog]
+Height 1080=500
+Width 1920=405
+
+[MainWindow]
+Height 1050=700
+Height 1080=700
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABAAAAAK8AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1680=1024
+Width 1920=1024
+Width 3840=1024
+
+[Open-with settings]
+CompletionMode=1
+History=chrom,slack,idea
+
+[PlasmaRunnerManager]
+LaunchCounts=

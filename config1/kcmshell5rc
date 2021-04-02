@@ -1,0 +1,14 @@
+[DownloadDialog Settings]
+Height 1080=535
+Width 1920=700
+
+[KFileDialog Settings]
+iconViewIconSize=43
+
+[KPropertiesDialog]
+Height 1080=500
+Width 1920=514
+
+[Open-with settings]
+CompletionMode=1
+History=yaku

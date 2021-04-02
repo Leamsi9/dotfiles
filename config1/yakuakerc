@@ -1,0 +1,40 @@
+[Animation]
+Frames=50
+
+[Appearance]
+BackgroundColorOpacity=48
+Skin=Nilium
+SkinInstalledWithKns=true
+
+[Desktop Entry]
+DefaultProfile=Profile 1.profile
+
+[Dialogs]
+FirstRun=false
+
+[DownloadDialog Settings]
+Height 1050=535
+Width 1680=700
+
+[Favorite Profiles]
+Favorites=
+
+[FileDialogSize]
+Height 1080=480
+Width 1920=640
+
+[KFileDialog Settings]
+detailViewIconSize=0
+
+[Shortcuts]
+close-active-terminal=Ctrl+Q
+close-session=Ctrl+W
+new-session=Ctrl+Tab
+split-left-right=Alt+Right
+split-top-bottom=Alt+Down
+
+[Window]
+Height=100
+Position=0
+Screen=1
+Width=30

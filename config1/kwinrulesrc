@@ -1,0 +1,43 @@
+[1]
+Description=Application settings for google-chrome
+clientmachine=localhost
+clientmachinematch=0
+position=0,0
+positionrule=4
+size=3840,1080
+sizerule=4
+wmclass=google-chrome
+wmclasscomplete=false
+wmclassmatch=1
+
+[2]
+Description=Window settings for google-chrome
+clientmachine=localhost
+clientmachinematch=0
+position=0,0
+positionrule=4
+size=2202,1080
+sizerule=4
+title="if (empty($user))" - Google Search - Google Chrome
+titlematch=0
+types=1
+windowrole=browser
+windowrolematch=1
+wmclass=google-chrome
+wmclasscomplete=false
+wmclassmatch=1
+
+[3]
+Description=Application settings for slack
+clientmachine=localhost
+clientmachinematch=0
+position=2742,46
+positionrule=4
+size=1026,602
+sizerule=4
+wmclass=slack
+wmclasscomplete=false
+wmclassmatch=1
+
+[General]
+count=3
