@@ -1,0 +1,197 @@
+# plasma-applet-yahooweather language translation file.
+# Copyright (C) 2014 Symeon Huang
+# This file is distributed under the same license as the plasma-applet-yahooweather package.
+#
+#
+# Translators:
+# Roland Reck <rolandNOSPAMreck@gmx.de>, 2015,2018
+msgid ""
+msgstr ""
+"Project-Id-Version: Webslice\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-05-26 20:51+0200\n"
+"PO-Revision-Date: 2018-05-26 09:12+0000\n"
+"Last-Translator: Roland Reck <rolandNOSPAMreck@gmx.de>\n"
+"Language-Team: German (http://www.transifex.com/cqoicebordel/webslice/"
+"language/de/)\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../ui/ConfigAdvanced.qml:20
+msgid "Attention, modify with care and only if you know what you are doing."
+msgstr ""
+"Achtung! Bitte ändern Sie diese Einstellungen nur,  wenn Sie wissen, was Sie "
+"tun."
+
+#: ../ui/ConfigAdvanced.qml:27
+msgid "Enable JS Scroll Into View"
+msgstr "JS Selektor Auswahl ins Blickfeld scrollen"
+
+#: ../ui/ConfigAdvanced.qml:31
+msgid "JS Selector :"
+msgstr "JS Selektor:"
+
+#: ../ui/ConfigAdvanced.qml:50
+msgid "Minimum Content width :"
+msgstr "Mindestbreite des Inhalts:"
+
+#: ../ui/ConfigAdvanced.qml:55 ../ui/ConfigGeneral.qml:132
+#: ../ui/ConfigGeneral.qml:146
+msgctxt "Abbreviation for pixels"
+msgid "px"
+msgstr "px"
+
+#: ../ui/ConfigAdvanced.qml:63
+msgid "(default : 100px)"
+msgstr "(Voreinstellung: 100px)"
+
+#: ../ui/ConfigAdvanced.qml:69
+msgid "This option can help you trigger media queries, and may help with zoom."
+msgstr ""
+"Diese Option hilft Ihnen, CSS/Media Queries auszulösen und kann beim zoomen "
+"helfen."
+
+#: ../ui/ConfigAdvanced.qml:82
+msgid "Enable personnalized JavaScript to be executed once the page is loaded"
+msgstr ""
+"Persönliche JavaScripts, die nach dem laden der Seite ausgeführt werden."
+
+#: ../ui/ConfigAdvanced.qml:86
+msgid "Your JavaScript :"
+msgstr "Ihr Javascript:"
+
+#: ../ui/ConfigGeneral.qml:23
+msgid "URL :"
+msgstr "URL:"
+
+#: ../ui/ConfigGeneral.qml:44
+msgid "Enable auto reload"
+msgstr "Automatisch neu laden"
+
+#: ../ui/ConfigGeneral.qml:48
+msgid "Reload interval :"
+msgstr "Nachladeintervall:"
+
+#: ../ui/ConfigGeneral.qml:54
+msgctxt "Abbreviation for seconds"
+msgid "sec"
+msgstr "Sek."
+
+#: ../ui/ConfigGeneral.qml:70
+msgid "Enable transparency"
+msgstr "Transparenz ermöglichen"
+
+#: ../ui/ConfigGeneral.qml:75
+msgid ""
+"Note that the transparency will only work if the page background is also "
+"transparent or not set.\n"
+"Also, the transparency may not be visible until the page is reloaded or "
+"repainted."
+msgstr ""
+"Transparenz ist nur möglich, wenn der Seitenhintergrund ebenfalls "
+"transparent ist.\n"
+"Damit diese Einstellung wirksam wird, muss  möglicherweise die Seite neu "
+"geladen werden."
+
+#: ../ui/ConfigGeneral.qml:85
+msgid "Plasmoid behaviour :"
+msgstr "Plasmoid Verhalten:"
+
+#: ../ui/ConfigGeneral.qml:100
+msgid "Display the site"
+msgstr "Site anzeigen"
+
+#: ../ui/ConfigGeneral.qml:106
+msgid "Display a button that opens the site in a new panel"
+msgstr ""
+"Kompakt-Ansicht anzeigen. Öffnet die Site bei Klick in einem neuen Paneel."
+
+#: ../ui/ConfigGeneral.qml:116
+msgid "Popup size"
+msgstr "Pop-Up Größe"
+
+#: ../ui/ConfigGeneral.qml:126
+msgid "Width"
+msgstr "Breite"
+
+#: ../ui/ConfigGeneral.qml:140
+msgid "Height"
+msgstr "Höhe"
+
+#: ../ui/ConfigGeneral.qml:157
+msgid ""
+"Note that this behaviour might not be visible until the plasmoid is reloaded."
+msgstr ""
+"Beachten Sie, dass dieses Verhalten möglicherweise erst sichtbar wird, wenn "
+"das Plasmoid neu geladen wird."
+
+#: ../ui/ConfigGeneral.qml:169
+msgid "Display reload animation"
+msgstr "\"Neu laden\" Animation anzeigen"
+
+#: ../ui/ConfigMultipleURLs.qml:25
+msgid ""
+"List of URL accessible throught the context menu to switch to others "
+"websites."
+msgstr ""
+"Liste der URLs, die über das Kontextmenü zugänglich sind, um zu anderen "
+"Websites zu wechseln."
+
+#: ../ui/ConfigMultipleURLs.qml:34 ../ui/ConfigMultipleURLs.qml:43
+msgid "URL"
+msgstr "URL"
+
+#: ../ui/ConfigMultipleURLs.qml:50
+msgid "Add a URL"
+msgstr "URL hinzufügen"
+
+#: ../ui/ConfigMultipleURLs.qml:59
+msgid "Remove the selected URL"
+msgstr "Ausgewählte URL entfernen"
+
+#: ../ui/ConfigMultipleURLs.qml:67
+msgid "Move the selected URL up"
+msgstr "Ausgewählte URL nach oben verschieben"
+
+#: ../ui/ConfigMultipleURLs.qml:77
+msgid "Move the selected URL down"
+msgstr "Ausgewählte URL nach unten verschieben"
+
+#: ../ui/main.qml:186
+msgid "Back"
+msgstr "Zurück"
+
+#: ../ui/main.qml:193
+msgid "Forward"
+msgstr "Vor"
+
+#: ../ui/main.qml:200
+msgid "Reload"
+msgstr "Neu laden"
+
+#: ../ui/main.qml:207
+msgid "Go to"
+msgstr "Gehe zu"
+
+#: ../ui/main.qml:228
+msgid "Open current URL in default browser"
+msgstr "Aktuelle URL im Standard-Browser öffnen."
+
+#: ../ui/main.qml:234
+msgid "Configure"
+msgstr "Konfigurieren"
+
+#: ../config/config.qml:6
+msgid "General"
+msgstr "Allgemein"
+
+#: ../config/config.qml:11
+msgid "Advanced"
+msgstr "Erweitert"
+
+#: ../config/config.qml:16
+msgid "More URLs"
+msgstr "Weitere URLs"

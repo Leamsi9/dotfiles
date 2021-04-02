@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xbel>
+<xbel xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks" xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info" xmlns:kdepriv="http://www.kde.org/kdepriv">
+ <bookmark href="file:///home/ismael">
+  <title>Home</title>
+  <info>
+   <metadata owner="http://freedesktop.org">
+    <bookmark:icon name="user-home"/>
+   </metadata>
+   <metadata owner="http://www.kde.org">
+    <ID>1582112129/0</ID>
+    <isSystemItem>true</isSystemItem>
+    <IsHidden>false</IsHidden>
+   </metadata>
+  </info>
+ </bookmark>
+ <bookmark href="file:///home/ismael/Desktop">
+  <title>Desktop</title>
+  <info>
+   <metadata owner="http://freedesktop.org">
+    <bookmark:icon name="user-desktop"/>
+   </metadata>
+   <metadata owner="http://www.kde.org">
+    <ID>1582112129/1</ID>
+    <isSystemItem>true</isSystemItem>
+    <IsHidden>false</IsHidden>
+   </metadata>
+  </info>
+ </bookmark>
+ <bookmark href="file:///home/ismael/Documents">
+  <title>Documents</title>
+  <info>
+   <metadata owner="http://freedesktop.org">
+    <bookmark:icon name="folder-documents"/>
+   </metadata>
+   <metadata owner="http://www.kde.org">
+    <ID>1582112129/2</ID>
+    <isSystemItem>true</isSystemItem>
+    <IsHidden>false</IsHidden>
+   </metadata>
+  </info>
+ </bookmark>
+ <bookmark href="file:///home/ismael/Downloads">
+  <title>Downloads</title>
+  <info>
+   <metadata owner="http://freedesktop.org">
+    <bookmark:icon name="folder-downloads"/>
+   </metadata>
+   <metadata owner="http://www.kde.org">
+    <ID>1582112129/3</ID>
+    <isSystemItem>true</isSystemItem>
+    <IsHidden>false</IsHidden>
+   </metadata>
+  </info>
+ </bookmark>
+ <bookmark href="remote:/">
+  <title>Network</title>
+  <info>
+   <metadata owner="http://freedesktop.org">
+    <bookmark:icon name="folder-network"/>
+   </metadata>
+   <metadata owner="http://www.kde.org">
+    <ID>1582112129/4</ID>
+    <isSystemItem>true</isSystemItem>
+    <IsHidden>false</IsHidden>
+   </metadata>
+  </info>
+ </bookmark>
+ <bookmark href="trash:/">
+  <title>Trash</title>
+  <info>
+   <metadata owner="http://freedesktop.org">
+    <bookmark:icon name="user-trash-full"/>
+   </metadata>
+   <metadata owner="http://www.kde.org">
+    <ID>1582112129/5</ID>
+    <isSystemItem>true</isSystemItem>
+    <IsHidden>false</IsHidden>
+   </metadata>
+  </info>
+ </bookmark>
+ <info>
+  <metadata owner="http://www.kde.org">
+   <GroupState-Places-IsHidden>false</GroupState-Places-IsHidden>
+   <GroupState-Remote-IsHidden>false</GroupState-Remote-IsHidden>
+   <GroupState-Devices-IsHidden>false</GroupState-Devices-IsHidden>
+   <GroupState-RemovableDevices-IsHidden>false</GroupState-RemovableDevices-IsHidden>
+   <GroupState-Tags-IsHidden>false</GroupState-Tags-IsHidden>
+   <withBaloo>true</withBaloo>
+   <GroupState-SearchFor-IsHidden>false</GroupState-SearchFor-IsHidden>
+   <GroupState-RecentlySaved-IsHidden>false</GroupState-RecentlySaved-IsHidden>
+  </metadata>
+ </info>
+ <bookmark href="timeline:/today">
+  <title>Today</title>
+  <info>
+   <metadata owner="http://freedesktop.org">
+    <bookmark:icon name="go-jump-today"/>
+   </metadata>
+   <metadata owner="http://www.kde.org">
+    <ID>1582112129/6</ID>
+    <isSystemItem>true</isSystemItem>
+    <IsHidden>false</IsHidden>
+   </metadata>
+  </info>
+ </bookmark>
+ <bookmark href="timeline:/yesterday">
+  <title>Yesterday</title>
+  <info>
+   <metadata owner="http://freedesktop.org">
+    <bookmark:icon name="view-calendar-day"/>
+   </metadata>
+   <metadata owner="http://www.kde.org">
+    <ID>1582112129/7</ID>
+    <isSystemItem>true</isSystemItem>
+    <IsHidden>false</IsHidden>
+   </metadata>
+  </info>
+ </bookmark>
+ <bookmark href="search:/documents">
+  <title>Documents</title>
+  <info>
+   <metadata owner="http://freedesktop.org">
+    <bookmark:icon name="folder-text"/>
+   </metadata>
+   <metadata owner="http://www.kde.org">
+    <ID>1582112129/8</ID>
+    <isSystemItem>true</isSystemItem>
+    <IsHidden>false</IsHidden>
+   </metadata>
+  </info>
+ </bookmark>
+ <bookmark href="search:/images">
+  <title>Images</title>
+  <info>
+   <metadata owner="http://freedesktop.org">
+    <bookmark:icon name="folder-images"/>
+   </metadata>
+   <metadata owner="http://www.kde.org">
+    <ID>1582112129/9</ID>
+    <isSystemItem>true</isSystemItem>
+    <IsHidden>false</IsHidden>
+   </metadata>
+  </info>
+ </bookmark>
+ <bookmark href="search:/audio">
+  <title>Audio</title>
+  <info>
+   <metadata owner="http://freedesktop.org">
+    <bookmark:icon name="folder-sound"/>
+   </metadata>
+   <metadata owner="http://www.kde.org">
+    <ID>1582112129/10</ID>
+    <isSystemItem>true</isSystemItem>
+    <IsHidden>false</IsHidden>
+   </metadata>
+  </info>
+ </bookmark>
+ <bookmark href="search:/videos">
+  <title>Videos</title>
+  <info>
+   <metadata owner="http://freedesktop.org">
+    <bookmark:icon name="folder-videos"/>
+   </metadata>
+   <metadata owner="http://www.kde.org">
+    <ID>1582112129/11</ID>
+    <isSystemItem>true</isSystemItem>
+    <IsHidden>false</IsHidden>
+   </metadata>
+  </info>
+ </bookmark>
+ <separator>
+  <info>
+   <metadata owner="http://www.kde.org">
+    <UDI>/org/kde/fstab/overlay/var/lib/docker/overlay2/ed6007e850509a00ea1fecf9261aa99a9a7c5cec572fcc16e35bf44d7d962013/merged</UDI>
+    <isSystemItem>true</isSystemItem>
+   </metadata>
+  </info>
+ </separator>
+ <separator href="file:///">
+  <info>
+   <metadata owner="http://www.kde.org">
+    <UDI>/org/freedesktop/UDisks2/block_devices/dm_2d1</UDI>
+    <isSystemItem>true</isSystemItem>
+    <IsHidden>false</IsHidden>
+   </metadata>
+   <metadata owner="http://freedesktop.org">
+    <bookmark:icon name="drive-harddisk-root"/>
+   </metadata>
+  </info>
+  <title>474.8 GiB Hard Drive</title>
+ </separator>
+ <separator>
+  <info>
+   <metadata owner="http://www.kde.org">
+    <UDI>/org/freedesktop/UDisks2/block_devices/nvme0n1p3</UDI>
+    <isSystemItem>true</isSystemItem>
+    <IsHidden>false</IsHidden>
+   </metadata>
+   <metadata owner="http://freedesktop.org">
+    <bookmark:icon name="drive-harddisk"/>
+   </metadata>
+  </info>
+  <title>475.7 GiB Encrypted Drive</title>
+ </separator>
+ <separator href="file:///boot">
+  <info>
+   <metadata owner="http://www.kde.org">
+    <UDI>/org/freedesktop/UDisks2/block_devices/nvme0n1p2</UDI>
+    <isSystemItem>true</isSystemItem>
+    <IsHidden>false</IsHidden>
+   </metadata>
+   <metadata owner="http://freedesktop.org">
+    <bookmark:icon name="drive-harddisk"/>
+   </metadata>
+  </info>
+  <title>732.0 MiB Hard Drive</title>
+ </separator>
+ <separator>
+  <info>
+   <metadata owner="http://www.kde.org">
+    <UDI>/org/kde/fstab/overlay/var/lib/docker/overlay2/61e83997ce9d4fe72d6cc20521c002623e655fba77d14731aba9e5bf875bebd2/merged</UDI>
+    <isSystemItem>true</isSystemItem>
+   </metadata>
+  </info>
+ </separator>
+ <separator>
+  <info>
+   <metadata owner="http://www.kde.org">
+    <UDI>/org/kde/fstab/overlay/var/lib/docker/overlay2/43d0b7357c3c2c278357e6e907306745020457edb793067af6f3f69dfadac0c2/merged</UDI>
+    <isSystemItem>true</isSystemItem>
+   </metadata>
+  </info>
+ </separator>
+ <separator>
+  <info>
+   <metadata owner="http://www.kde.org">
+    <UDI>/org/freedesktop/UDisks2/block_devices/loop0</UDI>
+    <isSystemItem>true</isSystemItem>
+   </metadata>
+  </info>
+ </separator>
+ <separator>
+  <info>
+   <metadata owner="http://www.kde.org">
+    <UDI>/org/kde/fstab/overlay/var/lib/docker/overlay2/f5e5b08cd48ee0b6ab64af860973025f1657054428fd84874e7f28e2d97f3187/merged</UDI>
+    <isSystemItem>true</isSystemItem>
+   </metadata>
+  </info>
+ </separator>
+ <separator>
+  <info>
+   <metadata owner="http://www.kde.org">
+    <UDI>/org/kde/fstab/overlay/var/lib/docker/overlay2/f674721e3beb1e9368698f90944093b55563c22c560e407ca64fb291f7bd0bed-init/merged</UDI>
+    <isSystemItem>true</isSystemItem>
+   </metadata>
+  </info>
+ </separator>
+ <separator>
+  <info>
+   <metadata owner="http://www.kde.org">
+    <UDI>/org/kde/fstab/overlay/var/lib/docker/overlay2/f674721e3beb1e9368698f90944093b55563c22c560e407ca64fb291f7bd0bed/merged</UDI>
+    <isSystemItem>true</isSystemItem>
+   </metadata>
+  </info>
+ </separator>
+ <separator>
+  <info>
+   <metadata owner="http://www.kde.org">
+    <UDI>/org/kde/fstab/overlay/var/lib/docker/overlay2/13d2ae463f697e2f8b6fd865081396b54eda464f456377450f6ed5059f418b87-init/merged</UDI>
+    <isSystemItem>true</isSystemItem>
+   </metadata>
+  </info>
+ </separator>
+ <separator>
+  <info>
+   <metadata owner="http://www.kde.org">
+    <UDI>/org/kde/fstab/overlay/var/lib/docker/overlay2/13d2ae463f697e2f8b6fd865081396b54eda464f456377450f6ed5059f418b87/merged</UDI>
+    <isSystemItem>true</isSystemItem>
+   </metadata>
+  </info>
+ </separator>
+ <separator>
+  <info>
+   <metadata owner="http://www.kde.org">
+    <UDI>/org/kde/fstab/overlay/var/lib/docker/overlay2/e763b2f59571f8f59ffc847319ed05842ccd7f2a95ff9b7ae66db00436d3dc56/merged</UDI>
+    <isSystemItem>true</isSystemItem>
+   </metadata>
+  </info>
+ </separator>
+ <separator>
+  <info>
+   <metadata owner="http://www.kde.org">
+    <UDI>/org/kde/fstab/overlay/var/lib/docker/overlay2/d74ff138366bc4a782258cab8ddb03bda02694da02edc569c4441462f11ddfc8/merged</UDI>
+    <isSystemItem>true</isSystemItem>
+   </metadata>
+  </info>
+ </separator>
+ <bookmark href="">
+  <title>Project Folder</title>
+  <info>
+   <metadata owner="http://freedesktop.org">
+    <bookmark:icon name="folder-favorites"/>
+   </metadata>
+   <metadata owner="http://www.kde.org">
+    <OnlyInApp>kdenlive</OnlyInApp>
+   </metadata>
+  </info>
+ </bookmark>
+ <separator>
+  <info>
+   <metadata owner="http://www.kde.org">
+    <UDI>/org/kde/fstab/overlay/var/lib/docker/overlay2/df58fd79990f5657a916fb0fa572ec1959afc965a6f91b96affdf4e10e13e442/merged</UDI>
+    <isSystemItem>true</isSystemItem>
+   </metadata>
+  </info>
+ </separator>
+ <separator>
+  <info>
+   <metadata owner="http://www.kde.org">
+    <UDI>/org/kde/fstab/overlay/var/lib/docker/overlay2/e926b0db9b6a94100463abd019fa17ffc22ce159e9163aabea5104c15231b4db/merged</UDI>
+    <isSystemItem>true</isSystemItem>
+   </metadata>
+  </info>
+ </separator>
+ <separator>
+  <info>
+   <metadata owner="http://www.kde.org">
+    <UDI>/org/kde/fstab/overlay/var/lib/docker/overlay2/042574ef4dd19b13ca04af2d7ccf043518b4ac75b4d73fc0323c4df8aba08995/merged</UDI>
+    <isSystemItem>true</isSystemItem>
+   </metadata>
+  </info>
+ </separator>
+ <separator>
+  <info>
+   <metadata owner="http://www.kde.org">
+    <UDI>/org/kde/fstab/overlay/var/lib/docker/overlay2/3be7c5a3c4d2037e05d2c63bc8f957142d25c1c0c0068d3fab186f1ae3e11717/merged</UDI>
+    <isSystemItem>true</isSystemItem>
+   </metadata>
+  </info>
+ </separator>
+ <separator>
+  <info>
+   <metadata owner="http://www.kde.org">
+    <UDI>/org/kde/fstab/overlay/var/lib/docker/overlay2/3da72366d359ca41a1a91d616e34c9fef64eb5b695a0f7e4cdaccb109c2f4e54/merged</UDI>
+    <isSystemItem>true</isSystemItem>
+   </metadata>
+  </info>
+ </separator>
+ <separator>
+  <info>
+   <metadata owner="http://www.kde.org">
+    <UDI>/org/kde/fstab/overlay/var/lib/docker/overlay2/b5e5360614678ba1637f1dc5b8f0b5ac59619a3ab1fd48373737ff5a80fff31a/merged</UDI>
+    <isSystemItem>true</isSystemItem>
+   </metadata>
+  </info>
+ </separator>
+ <separator>
+  <info>
+   <metadata owner="http://www.kde.org">
+    <UDI>/org/kde/fstab/overlay/var/lib/docker/overlay2/74627e7ae22ce55c28b81a10feb71f7f48dde7a769bb3c5d6ea1f7abe964bf30/merged</UDI>
+    <isSystemItem>true</isSystemItem>
+   </metadata>
+  </info>
+ </separator>
+ <separator>
+  <info>
+   <metadata owner="http://www.kde.org">
+    <UDI>/org/kde/fstab/overlay/var/lib/docker/overlay2/4043bb21a5f6f50702237bf2f7b9a7d2e9a084761fadc8aeea47eba4a5070d8a/merged</UDI>
+    <isSystemItem>true</isSystemItem>
+   </metadata>
+  </info>
+ </separator>
+ <separator href="file:///var/lib/docker/overlay2/cac816bd1a7ff3c562ffcff6969dfed5e6f7930a182b0e6319bde9f019b384b4/merged">
+  <info>
+   <metadata owner="http://www.kde.org">
+    <UDI>/org/kde/fstab/overlay/var/lib/docker/overlay2/cac816bd1a7ff3c562ffcff6969dfed5e6f7930a182b0e6319bde9f019b384b4/merged</UDI>
+    <isSystemItem>true</isSystemItem>
+    <IsHidden>false</IsHidden>
+   </metadata>
+   <metadata owner="http://freedesktop.org">
+    <bookmark:icon name="folder"/>
+   </metadata>
+  </info>
+  <title>/var/lib/docker/overlay2/cac816bd1a7ff3c562ffcff6969dfed5e6f7930a182b0e6319bde9f019b384b4/merged (overlay)</title>
+ </separator>
+ <separator href="file:///var/lib/docker/overlay2/16375a508b23d7c64470aec4f44b83fe1d929edcc8962d3b160467e8408969c5/merged">
+  <info>
+   <metadata owner="http://www.kde.org">
+    <UDI>/org/kde/fstab/overlay/var/lib/docker/overlay2/16375a508b23d7c64470aec4f44b83fe1d929edcc8962d3b160467e8408969c5/merged</UDI>
+    <isSystemItem>true</isSystemItem>
+    <IsHidden>false</IsHidden>
+   </metadata>
+   <metadata owner="http://freedesktop.org">
+    <bookmark:icon name="folder"/>
+   </metadata>
+  </info>
+  <title>/var/lib/docker/overlay2/16375a508b23d7c64470aec4f44b83fe1d929edcc8962d3b160467e8408969c5/merged (overlay)</title>
+ </separator>
+ <separator href="file:///var/lib/docker/overlay2/4faa64c61ecead9f6f2a34df0bbc684b8a0f456ce946b61ca294e3a74024b496/merged">
+  <info>
+   <metadata owner="http://www.kde.org">
+    <UDI>/org/kde/fstab/overlay/var/lib/docker/overlay2/4faa64c61ecead9f6f2a34df0bbc684b8a0f456ce946b61ca294e3a74024b496/merged</UDI>
+    <isSystemItem>true</isSystemItem>
+    <IsHidden>false</IsHidden>
+   </metadata>
+   <metadata owner="http://freedesktop.org">
+    <bookmark:icon name="folder"/>
+   </metadata>
+  </info>
+  <title>/var/lib/docker/overlay2/4faa64c61ecead9f6f2a34df0bbc684b8a0f456ce946b61ca294e3a74024b496/merged (overlay)</title>
+ </separator>
+ <separator href="file:///var/lib/docker/overlay2/c8a7ac03ace46dfbd05c8120650e99131ad0f17b1f300ee0257d5023b27a0bdf/merged">
+  <info>
+   <metadata owner="http://www.kde.org">
+    <UDI>/org/kde/fstab/overlay/var/lib/docker/overlay2/c8a7ac03ace46dfbd05c8120650e99131ad0f17b1f300ee0257d5023b27a0bdf/merged</UDI>
+    <isSystemItem>true</isSystemItem>
+    <IsHidden>false</IsHidden>
+   </metadata>
+   <metadata owner="http://freedesktop.org">
+    <bookmark:icon name="folder"/>
+   </metadata>
+  </info>
+  <title>/var/lib/docker/overlay2/c8a7ac03ace46dfbd05c8120650e99131ad0f17b1f300ee0257d5023b27a0bdf/merged (overlay)</title>
+ </separator>
+ <separator href="file:///var/lib/docker/overlay2/4fec748f2fd8dbf561d050bdb9e764056d0a0476b0db2aea3c39dfc1ac0361bb/merged">
+  <info>
+   <metadata owner="http://www.kde.org">
+    <UDI>/org/kde/fstab/overlay/var/lib/docker/overlay2/4fec748f2fd8dbf561d050bdb9e764056d0a0476b0db2aea3c39dfc1ac0361bb/merged</UDI>
+    <isSystemItem>true</isSystemItem>
+    <IsHidden>false</IsHidden>
+   </metadata>
+   <metadata owner="http://freedesktop.org">
+    <bookmark:icon name="folder"/>
+   </metadata>
+  </info>
+  <title>/var/lib/docker/overlay2/4fec748f2fd8dbf561d050bdb9e764056d0a0476b0db2aea3c39dfc1ac0361bb/merged (overlay)</title>
+ </separator>
+ <separator href="file:///var/lib/docker/overlay2/538b38e49bca4c4b07466b3ca3960037a8c215459186d07c54a82e2dd0fbf5de/merged">
+  <info>
+   <metadata owner="http://www.kde.org">
+    <UDI>/org/kde/fstab/overlay/var/lib/docker/overlay2/538b38e49bca4c4b07466b3ca3960037a8c215459186d07c54a82e2dd0fbf5de/merged</UDI>
+    <isSystemItem>true</isSystemItem>
+    <IsHidden>false</IsHidden>
+   </metadata>
+   <metadata owner="http://freedesktop.org">
+    <bookmark:icon name="folder"/>
+   </metadata>
+  </info>
+  <title>/var/lib/docker/overlay2/538b38e49bca4c4b07466b3ca3960037a8c215459186d07c54a82e2dd0fbf5de/merged (overlay)</title>
+ </separator>
+</xbel>

@@ -1,0 +1,22 @@
+2021-02-11T13:44:25 [WARN ] default: Connecting to deprecated signal QDBusConnectionInterface::serviceOwnerChanged(QString,QString,QString)
+2021-02-11T13:44:25 [WARN ] default: Icon theme "gnome" not found.
+2021-02-11T13:44:25 [WARN ] default: Invalid Context= "stock" line for icon theme:  "/usr/share/icons/ubuntu-mono-dark/stock/16/"
+2021-02-11T13:44:25 [WARN ] default: Invalid Context= "stock" line for icon theme:  "/usr/share/icons/ubuntu-mono-dark/stock/22/"
+2021-02-11T13:44:25 [WARN ] default: Invalid Context= "stock" line for icon theme:  "/usr/share/icons/ubuntu-mono-dark/stock/24/"
+2021-02-11T13:44:25 [WARN ] default: Invalid Context= "stock" line for icon theme:  "/usr/share/icons/ubuntu-mono-dark/stock/32/"
+2021-02-11T13:44:25 [WARN ] default: Invalid Context= "stock" line for icon theme:  "/usr/share/icons/ubuntu-mono-dark/stock/48/"
+2021-02-11T13:44:25 [WARN ] default: Invalid Context= "stock" line for icon theme:  "/usr/share/icons/ubuntu-mono-dark/stock/64/"
+2021-02-11T13:44:25 [WARN ] default: Invalid Context= "stock" line for icon theme:  "/usr/share/icons/ubuntu-mono-dark/stock/128/"
+2021-02-11T13:44:25 [WARN ] default: Invalid Context= "Legacy" line for icon theme:  "/usr/share/icons/Adwaita/8x8/legacy/"
+2021-02-11T13:44:25 [WARN ] default: Invalid Context= "Legacy" line for icon theme:  "/usr/share/icons/Adwaita/16x16/legacy/"
+2021-02-11T13:44:25 [WARN ] default: Invalid Context= "Legacy" line for icon theme:  "/usr/share/icons/Adwaita/22x22/legacy/"
+2021-02-11T13:44:25 [WARN ] default: Invalid Context= "Legacy" line for icon theme:  "/usr/share/icons/Adwaita/24x24/legacy/"
+2021-02-11T13:44:25 [WARN ] default: Invalid Context= "Legacy" line for icon theme:  "/usr/share/icons/Adwaita/32x32/legacy/"
+2021-02-11T13:44:25 [WARN ] default: Invalid Context= "Legacy" line for icon theme:  "/usr/share/icons/Adwaita/48x48/legacy/"
+2021-02-11T13:44:25 [WARN ] default: Invalid Context= "Legacy" line for icon theme:  "/usr/share/icons/Adwaita/256x256/legacy/"
+2021-02-11T13:44:25 [WARN ] default: Invalid Context= "Legacy" line for icon theme:  "/usr/share/icons/Adwaita/512x512/legacy/"
+2021-02-11T13:44:25 [WARN ] default: Invalid Context= "Legacy" line for icon theme:  "/usr/share/icons/Adwaita/scalable/legacy/"
+2021-02-11T13:44:25 [WARN ] default: Invalid Context= "UI" line for icon theme:  "/usr/share/icons/Adwaita/scalable/ui/"
+2021-02-11T13:44:25 [WARN ] default: Icon theme "Mint-X" not found.
+2021-02-11T13:44:25 [WARN ] default: Icon theme "elementary" not found.
+2021-02-11T13:44:25 [WARN ] default: Icon theme "gnome" not found.

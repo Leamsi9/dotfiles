@@ -1,0 +1,10 @@
+[Desktop Entry]
+Categories=Development;IDE;
+Comment=Capable and ergonomic Java IDE
+Exec="/home/ismael/.local/share/JetBrains/Toolbox/apps/IDEA-U/ch-0/193.6494.35/bin/idea.sh" %f
+Icon=/home/ismael/.local/share/JetBrains/Toolbox/apps/IDEA-U/ch-0/.icon.svg
+Name=IntelliJ IDEA Ultimate
+StartupWMClass=jetbrains-idea
+Terminal=false
+Type=Application
+Version=1.0

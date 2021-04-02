@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="10.666667"
+   height="10.666667"
+   id="svg3795"
+   version="1.1"
+   inkscape:version="0.92.0 r"
+   sodipodi:docname="close_hover.svg">
+  <defs
+     id="defs3797" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#808080"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageopacity="0.50196078"
+     inkscape:pageshadow="0"
+     inkscape:zoom="16"
+     inkscape:cx="21.694686"
+     inkscape:cy="9.6983958"
+     inkscape:document-units="px"
+     inkscape:current-layer="g3809"
+     showgrid="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="736"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     borderlayer="true"
+     showborder="true"
+     inkscape:pagecheckerboard="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3556"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       originx="0"
+       originy="0"
+       spacingx="1.0666667"
+       spacingy="1.0666667" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata3800">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g4137"
+     transform="matrix(0.33466812,0,0,0.33466812,-8.5888606,2.8344779)">
+    <g
+       id="g3809"
+       transform="matrix(0.88415835,0,0,0.99636728,3.1086314,-0.02057312)">
+      <g
+         id="g3821"
+         transform="matrix(1.1358987,0,0,1.0072864,-3.7811285,0.06337921)">
+        <ellipse
+           style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.01242526;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path4142"
+           cx="41.691647"
+           cy="7.4010158"
+           rx="15.95601"
+           ry="15.852818" />
+        <g
+           id="g3814">
+          <rect
+             inkscape:transform-center-y="-41.935217"
+             inkscape:transform-center-x="24.868593"
+             transform="matrix(0.7089506,0.70525814,-0.7098431,0.70435983,0,0)"
+             style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.86380839;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="rect5619"
+             width="12.091629"
+             height="2.8630583"
+             x="30.108755"
+             y="-34.417416" />
+          <rect
+             y="-27.909822"
+             x="-29.343155"
+             height="2.8630347"
+             width="12.091727"
+             id="rect5621"
+             style="fill:#000000;fill-opacity:0.995283;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             transform="matrix(-0.70984314,0.70435979,-0.70895056,-0.70525818,0,0)"
+             inkscape:transform-center-x="-41.935224"
+             inkscape:transform-center-y="-24.868581" />
+          <ellipse
+             ry="5.2636309"
+             rx="4.6746125"
+             cy="13.535611"
+             cx="41.691647"
+             id="path5623"
+             style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.86378872;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

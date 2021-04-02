@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+  <defs id="defs3051">
+    <style type="text/css" id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#888888;
+      }
+      </style>
+  </defs>
+  <polygon
+    class="ColorScheme-Text"
+    style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none"
+    points="1254.8,1.25 1347.6,1.25 1347.6,98.15 1347.3,130.1 1347.6,153.5 1347.6,238.55 1254.8,238.55 "
+    transform="matrix(0.03416666,0,0,0.03416666,0.95729789,14.471118)" />
+  <path
+    class="ColorScheme-Text"
+    style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none"
+    d="m 42.53129,16.645826 0,5.979165 -3.068166,0 0,-6.088498 -2.924666,0 0,6.088498 -3.056208,0 0,-6.088498 -2.922958,0 0,6.088498 -3.073291,0 0,-8.111165 12.928664,0 c 0.582542,0 1.081375,0.208417 1.4965,0.621834 0.413416,0.415124 0.621833,0.919083 0.621833,1.510166 z" />
+  <path
+    class="ColorScheme-Text"
+    style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none"
+    d="m 26.204751,16.645826 0,3.843749 c 0,0.592826 -0.21009,1.095076 -0.628632,1.510167 -0.418542,0.41345 -0.919083,0.621833 -1.503333,0.621833 l -9.805832,0 -0.01367,-4.796999 3.069874,0 0.01367,2.779457 5.798082,0 0,-4.072665 -8.881623,0 0.01367,-2.017542 9.805832,0 c 0.58425,0 1.084791,0.208417 1.503333,0.621834 0.418542,0.415124 0.628666,0.917374 0.628666,1.510166 z" />
+  <polygon
+    class="ColorScheme-Text"
+    style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none"
+    points="1.25,1.25 94.1,1.25 94.1,98.15 256,98.15 256,1.25 350.3,1.25 350.3,238.55 256,238.55 256,153.5 94.1,153.5 94.1,238.55 1.25,238.55 "
+    transform="matrix(0.03416666,0,0,0.03416666,0.95729789,14.471118)" />
+  <path
+    class="ColorScheme-Text"
+    style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none"
+    d="m 6.06476,37.000081 -5.0647538,-4.027848 0,-8.024897 46.0002838,0 0,8.083073 -5.74918,3.962827 -35.18635,0 z m -3.1141392,-4.968934 3.7951432,3.014897 33.879096,0 4.404282,-3.03543 0,-5.109242 -42.0785212,0 0,5.133197 z" />
+  <rect
+    class="ColorScheme-Text"
+    style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none"
+    x="8.0085306"
+    y="29.994978"
+    width="32.041412"
+    height="1.9540367"
+    rx="0.42434424"
+    ry="0.42434424" />
+</svg>

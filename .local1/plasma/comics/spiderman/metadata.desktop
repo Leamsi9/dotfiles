@@ -1,0 +1,39 @@
+[Desktop Entry]
+Name=The Amazing Spider Man
+#Name[fi]=
+#Name[ko]=
+#Name[lv]=
+#Name[nn]=
+#Name[sr]=
+#Name[sr@latin]=
+#Name[sv]=
+#Name[th]=
+Name[uk]=The Amazing Spider Man
+#Name[x-test]=
+#Name[zh_TW]=
+Comment=Spider Man Strip (Current Dailies & Sundays) 
+#Comment[fi]=
+#Comment[ko]=
+#comment[lv]=
+#Comment[nl]=
+#Comment[nn]=
+#Comment[sr]=
+#Comment[sr@latin]=
+#Comment[sv]=
+#Comment[th]=
+Comment[uk]=Spider Man Strip (Current Dailies & Sundays)
+#Comment[x-test]=
+#Comment[zh_TW]=
+Type=Service
+X-KDE-ServiceTypes=Plasma/Comic
+Icon=icon.png
+
+X-KDE-Library=plasma_comic_krossprovider
+X-KDE-PluginInfo-Author=baryah
+X-KDE-PluginInfo-Email=baryah@hotmail.com
+X-KDE-PluginInfo-Name=spiderman
+X-KDE-PluginInfo-Version=0.1
+X-KDE-PluginInfo-License=GPLv2
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PlasmaComicProvider-SuffixType=Date
+

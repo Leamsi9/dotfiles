@@ -1,0 +1,22 @@
+[Desktop Entry]
+Name=turnoff.us
+Name[x-test]=xxturnoff.usxx
+Comment={turnoff.us}
+Comment[it]={turnoff.us}
+Comment[x-test]=xx{turnoff.us}xx
+Type=Service
+Icon=icon.png
+
+X-KDE-Library=plasma_comic_krossprovider
+X-KDE-ServiceTypes=Plasma/Comic
+#X-KDE-Library=plasma_applet_comic
+#X-KDE-PluginInfo-Name=org.kde.plasma.comic
+X-KDE-PluginInfo-Author=Antonio Liccardo
+X-KDE-PluginInfo-Email=tuxmal@gmail.com
+X-KDE-PluginInfo-Name=turnoff
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=http://plasma.kde.org/
+X-KDE-PluginInfo-License=GPLv2
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PlasmaComicProvider-SuffixType=String
+X-KDE-PluginInfo-Category=Graphics

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kcfg xmlns="http://www.kde.org/standards/kcfg/1.0"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.kde.org/standards/kcfg/1.0
+      http://www.kde.org/standards/kcfg/1.0/kcfg.xsd" >
+    <kcfgfile name=""/>
+
+    <group name="General">
+        <entry name="websliceUrl" type="String">
+            <default>http://www.cqoicebordel.net</default>
+        </entry>
+		<entry name="enableReload" type="Bool">
+            <default>false</default>
+        </entry>
+        <entry name="reloadIntervalSec" type="Int">
+            <default>3600</default>
+        </entry>
+		<entry name="enableTransparency" type="Bool">
+            <default>true</default>
+        </entry>
+		<entry name="displaySiteBehaviour" type="Bool">
+            <default>true</default>
+        </entry>
+		<entry name="buttonBehaviour" type="Bool">
+            <default>false</default>
+        </entry>
+		<entry name="webPopupWidth" type="Int">
+            <default>500</default>
+        </entry>
+		<entry name="webPopupHeight" type="Int">
+            <default>500</default>
+        </entry>
+		<entry name="reloadAnimation" type="Bool">
+            <default>true</default>
+        </entry>
+    </group>
+	<group name="Advanced">
+		<entry name="enableJSID" type="Bool">
+            <default>false</default>
+        </entry>
+		<entry name="jsSelector" type="String">
+            <default></default>
+        </entry>
+		<entry name="minimumContentWidth" type="Int">
+            <default>100</default>
+        </entry>
+		<entry name="enableJS" type="Bool">
+            <default>false</default>
+        </entry>
+		<entry name="js" type="String">
+            <default></default>
+        </entry>
+	</group>
+	<group name="More URLs">
+		<entry name="urlsModel" type="String">
+            <default></default>
+        </entry>
+	</group>
+</kcfg>
